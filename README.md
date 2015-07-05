@@ -1,2 +1,3 @@
-# hippoplay
-Hippo Go Green
+hippoplay
+===========
+Playing with the Hippo CMS GoGreen project tutorial.
